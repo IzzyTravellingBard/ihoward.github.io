@@ -1,6 +1,16 @@
 h1 {
 	font-family: 'Eczar', serif;
 	text-align: center;
-	font-size: 20px;
+	font-size: 300%;
 	letter-spacing: 1px;
+}
+
+.intro-text {
+	font-family: 'Source Code Pro', monospace;
+}
+ul.nav li { 
+  display: inline-block;
+  text-align: center;
+   padding: 20px;
+  font-family: 'Source Code Pro', monospace;
 }
