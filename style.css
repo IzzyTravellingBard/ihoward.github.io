@@ -1,6 +1,8 @@
 h1 {
 	font-family: 'Eczar', serif;
 	text-align: center;
+}
+.header-name {
 	font-size: 150%;
 	letter-spacing: 1px;
 }
