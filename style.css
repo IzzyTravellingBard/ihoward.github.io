@@ -9,9 +9,7 @@ body {
   background-position: center;
   background-size: auto;
   background-repeat: no-repeat;
-  width: 100%;
-  padding: 20rem; /* (img-height / img-width * container-width) */
-                /* (1232 / 1811 * 100) */
+  padding: 1811px;
 }
 
 h1 {
