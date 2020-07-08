@@ -5,9 +5,9 @@
 /* Base Styles -------------------- */
 
 body {
-  background-image: url(ith014.jpg) no-repeat center center fixed;
-  background-size: cover;
-  overflow: scroll;
+  background-image: url(ith014.jpg);
+  background-position: center;
+  background-size: auto;
 
 }
 
