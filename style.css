@@ -7,9 +7,9 @@
 body {
   background-image: url(ith014.jpg);
   background-position: center;
-  background-size: contain;
+  background-size: auto;
   background-repeat: no-repeat;
-  padding: 1811px;
+  padding: 100rem;
 }
 
 h1 {
