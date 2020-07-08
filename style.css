@@ -7,7 +7,7 @@
 body {
   background-image: url(ith014.jpg);
   background-position: center;
-  background-size: auto 100%;
+  background-size: cover;
 }
 
 h1 {
