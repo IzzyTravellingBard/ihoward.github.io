@@ -7,7 +7,7 @@
 body {
   background-image: url(ith014.jpg);
   background-position: center;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   padding: 1811px;
 }
