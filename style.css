@@ -1,16 +1,62 @@
-h1 {
-	font-family: 'Eczar', serif;
-	text-align: center;
-	font-size: 300%;
-	letter-spacing: 1px;
+/* Web Font ----------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@700&family=Source+Code+Pro:wght@300&display=swap');
+
+/* Base Styles -------------------- */
+
+body {
+  background-color: black;
+  background-image: url(ith014.jpg);
 }
 
-.intro-text {
-	font-family: 'Source Code Pro', monospace;
+h1 {
+  color: white;
+	font-family: 'Eczar', serif;
+	text-align: center;
+	font-size: 4.5rem;
+	letter-spacing: 2px;
+	padding: 10px;
+	margin: 10px;
 }
-ul.nav li { 
-  display: inline-block;
+
+p {
+  color: white;
+  	font-family: 'Source Code Pro', monospace;
+}
+
+li {
+  color:white;
+  	font-family: 'Source Code Pro', monospace;
+}
+/* Main Styles --------------------- */
+
+#intro-text {
+	background-color: black;
+
+}
+.nav li {
+  
+	display:block;
+  margin-top: 5%;
+	width:130px;
+	float:left;
+	margin-left:6px;
+	border:2.7px solid rgb(28%,18%,36%); 
+  padding: 7px;
   text-align: center;
-   padding: 20px;
-  font-family: 'Source Code Pro', monospace;
+  
+}
+
+/* Pseudo-Class */ 
+
+a:link {
+  text-decoration: none;
+  color: cornflowerblue;
+}
+
+a:hover {
+  color:white;
+}
+a:visited {
+  color: cornflowerblue;
 }
