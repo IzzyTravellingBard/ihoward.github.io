@@ -5,8 +5,10 @@
 /* Base Styles -------------------- */
 
 body {
-  background-color: black;
   background-image: url(ith014.jpg);
+  background-position: center;
+  background-size: auto;
+
 }
 
 h1 {
@@ -20,8 +22,9 @@ h1 {
 }
 
 p {
-  color: white;
+    color: white;
   	font-family: 'Source Code Pro', monospace;
+    background-color: black;
 }
 
 li {
