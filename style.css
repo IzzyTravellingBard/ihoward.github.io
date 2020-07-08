@@ -6,9 +6,9 @@
 
 body {
   background-image: url(ith014.jpg);
+  background-size: auto;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: auto;
   overflow: scroll;
 
 }
