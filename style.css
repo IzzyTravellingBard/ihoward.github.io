@@ -5,10 +5,7 @@
 /* Base Styles -------------------- */
 
 body {
-  background-image: url(ith014.jpg) no-repeat center center fixed;
-  background-size: cover;
-  overflow: scroll;
-
+  background-color: black;
 }
 
 h1 {
@@ -32,6 +29,15 @@ li {
   	font-family: 'Source Code Pro', monospace;
 }
 /* Main Styles --------------------- */
+
+.main-header {
+   background: black url(ith014.jpg) no-repeat center;
+   background-size: cover;
+   overflow: scroll;
+   padding-top: 170px;
+   height: 1000px;
+
+}
 
 #intro-text {
 	background-color: black;
