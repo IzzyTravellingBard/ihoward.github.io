@@ -44,7 +44,8 @@ li {
 
 }
 .nav li {
-  
+  	color: black;
+	  font-weight: bold;
 	display:block;
   margin-top: 5%;
 	width: 175px;
@@ -53,18 +54,19 @@ li {
 	border:2.7px solid rgb(28%,18%,36%); 
   padding: 7px;
   text-align: center;
-  font-weight: bold;
   
 }
 
 .copyright {
   font-weight: bold;
+  color: white;
 }
 
 /* Pseudo-Class */ 
 
 a:link {
   text-decoration: none;
+  font-weight: bold;
   color: darkblue;
 }
 
