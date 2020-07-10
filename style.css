@@ -58,7 +58,7 @@ li {
 }
 
 .copyright {
-  font-weight: : bold;
+  font-weight: bold;
   color: darkblue;
 }
 
@@ -67,6 +67,7 @@ li {
 a:link {
   text-decoration: none;
   color: darkblue;
+  font-weight: bold;
 }
 
 a:hover {
