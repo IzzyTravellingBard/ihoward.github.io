@@ -35,6 +35,7 @@ li {
    background-size: auto;
    overflow: scroll;
    padding-top: 100px;
+   max-height: 1200px;
 
 }
 
