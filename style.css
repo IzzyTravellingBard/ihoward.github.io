@@ -32,9 +32,9 @@ li {
 /* Main Styles --------------------- */
 
 .main-header {
-   background: black url(ith014.jpg) no-repeat center;
+   background: black url(images/ith014.jpg) no-repeat center;
    background-size: auto;
-   overflow: scroll;
+   overflow-y: scroll;
    padding-top: 100px;
 
 }
@@ -56,16 +56,21 @@ li {
   
 }
 
+.copyright {
+  font-weight: : bold;d
+  color: darkblue;
+}
+
 /* Pseudo-Class */ 
 
 a:link {
   text-decoration: none;
-  color: cornflowerblue;
+  color: darkblue;
 }
 
 a:hover {
   color:white;
 }
 a:visited {
-  color: cornflowerblue;
+  color: darkblue;
 }
