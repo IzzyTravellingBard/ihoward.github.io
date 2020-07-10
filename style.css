@@ -9,6 +9,7 @@ body {
 }
 
 h1 {
+  background-color: black;
   color: white;
 	font-family: 'Eczar', serif;
 	text-align: center;
@@ -16,7 +17,6 @@ h1 {
 	letter-spacing: 2px;
 	padding: 10px;
 	margin: 10px;
-  background-color: black;
 }
 
 p {
