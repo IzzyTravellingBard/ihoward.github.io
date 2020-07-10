@@ -33,7 +33,7 @@ li {
 .main-header {
    background: black url(images/ith014.jpg) no-repeat center;
    background-size: auto;
-   overflow-y: scroll;
+   overflow: scroll;
    padding-top: 100px;
 
 }
