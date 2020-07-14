@@ -41,7 +41,7 @@ li {
 
 #intro-text {
 	background-color: black;
-	padding: 20px 20px;
+	padding: 60px 60px;
 }
 
 .nav li {
@@ -53,7 +53,6 @@ li {
 	border:2.7px solid rgb(28%,18%,36%); 
   padding: 7px;
   text-align: center;
-	font-size: 18px;
 	
   
 }
@@ -67,6 +66,7 @@ li {
 
 a:link {
   text-decoration: none;
+  color: black;
 }
 
 a:hover {
