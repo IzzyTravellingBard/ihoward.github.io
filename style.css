@@ -25,10 +25,8 @@ p {
 }
 
 li {
-  color: black;
-  font-weight: bold;
-  font-size: 10%;
   font-family: 'Source Code Pro', monospace;
+  color: darkblue;
 }
 /* Main Styles --------------------- */
 
@@ -43,18 +41,20 @@ li {
 
 #intro-text {
 	background-color: black;
-	height: 50px;
+	padding: 20px 20px;
 }
 
 .nav li {
 	display:block;
   margin-top: 5%;
-	width: 160px;
+	width: 150px;
 	float:left;
-	margin-left:6px;
+	margin-left:5px;
 	border:2.7px solid rgb(28%,18%,36%); 
   padding: 7px;
   text-align: center;
+	font-size: 18px;
+	
   
 }
 
@@ -67,9 +67,8 @@ li {
 
 a:link {
   text-decoration: none;
-  color: black;
 }
 
 a:hover {
-  color:white;
+  color: white;
 }
