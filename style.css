@@ -20,13 +20,12 @@ h1 {
 
 p {
     color: white;
-  	font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
     background-color: black;
 }
 
 li {
   font-family: 'Source Code Pro', monospace;
-  color: darkblue;
 }
 /* Main Styles --------------------- */
 
@@ -41,18 +40,18 @@ li {
 
 #intro-text {
 	background-color: black;
-	padding: 60px 60px;
+	padding: 100px 100px;
 }
 
 .nav li {
 	display:block;
-  margin-top: 5%;
+        margin-top: 5%;
 	width: 150px;
 	float:left;
 	margin-left:5px;
 	border:2.7px solid rgb(28%,18%,36%); 
-  padding: 7px;
-  text-align: center;
+        padding: 7px;
+        text-align: center;
 	
   
 }
