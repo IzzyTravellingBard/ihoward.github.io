@@ -22,12 +22,13 @@ p {
     color: white;
   	font-family: 'Source Code Pro', monospace;
     background-color: black;
+	padding: 8px;
 }
 
 li {
   color: black;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 10%;
   font-family: 'Source Code Pro', monospace;
 }
 /* Main Styles --------------------- */
@@ -66,7 +67,6 @@ li {
 
 a:link {
   text-decoration: none;
-  color: rgb(0, 0, 139);
 }
 
 a:hover {
