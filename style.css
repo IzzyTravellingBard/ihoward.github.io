@@ -72,6 +72,10 @@ li {
   background: url(images/ith014.jpg) no-repeat center;
 }
 
+.embed {
+  align-content: center;
+}
+
 /* Pseudo-Class */ 
 
 a:link {
