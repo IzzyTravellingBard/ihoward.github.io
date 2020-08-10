@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 {
-  color: #7FB3D5;
+  color: #17A589;
   letter-spacing: .5px;
   font-family: 'Eczar', serif;
   text-align: center;
@@ -36,7 +36,7 @@ li {
 }
 
 a {
-  color: #7FB3D5;
+  color: #17A589;
 }
 /* Main Styles --------------------- */
 
@@ -59,11 +59,10 @@ a {
 	      width: 170px;
 	      float: left;
 	      margin-left:6px;
-	      border: 2.7px solid #7FB3D5; 
+	      border: 2.7px solid #17A589; 
         padding: 7px;
         text-align: center;
         font-weight: bold;
-        color: #7FB3D5;
   
 }
 
@@ -84,7 +83,7 @@ a {
 
 a:link {
   text-decoration: none;
-  color: black;
+  color: #17A589;
 }
 
 a:hover {
