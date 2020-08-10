@@ -34,6 +34,10 @@ p {
 li {
   font-family: 'Source Code Pro', monospace;
 }
+
+a {
+  color: #7FB3D5;
+}
 /* Main Styles --------------------- */
 
 .main-header {
@@ -60,7 +64,6 @@ li {
         text-align: center;
         font-weight: bold;
         color: #7FB3D5;
-        background-color: #7FB3D5;
   
 }
 
