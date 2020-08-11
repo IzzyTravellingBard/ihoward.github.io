@@ -41,6 +41,10 @@ li {
 a {
   color: #1A5276;
 }
+
+footer {
+  padding: 10px;
+}
 /* Main Styles --------------------- */
 
 .main-header {
