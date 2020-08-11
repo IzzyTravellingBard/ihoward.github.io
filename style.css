@@ -19,12 +19,15 @@ h1 {
 }
 
 h2 {
-  color: #17A589;
+  color: #1A5276;
   letter-spacing: .5px;
   font-family: 'Eczar', serif;
   text-align: center;
 }
 
+h3 {
+  font-family: 'Eczar', serif;
+}
 p {
     color: white;
     font-family: 'Source Code Pro', monospace;
