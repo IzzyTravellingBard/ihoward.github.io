@@ -59,7 +59,7 @@ a {
 	      width: 170px;
 	      float: left;
 	      margin-left:6px;
-	      border: 2.7px solid #17A589; 
+	      border: 2.7px solid #1A5276; 
         padding: 7px;
         text-align: center;
         font-weight: bold;
@@ -83,7 +83,7 @@ a {
 
 a:link {
   text-decoration: none;
-  color: #17A589;
+  color: #1A5276;
 }
 
 a:hover {
