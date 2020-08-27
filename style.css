@@ -94,6 +94,10 @@ footer {
   margin-bottom: 6px;
 }
 
+#center-column {
+  float: center;
+}
+
 /* Clear floats after the columns */
 
 .row:after {
