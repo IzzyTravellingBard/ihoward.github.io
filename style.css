@@ -90,6 +90,10 @@ footer {
   width: 50%;
 }
 
+.intro-paragraph {
+  margin-bottom: 5px;
+}
+
 /* Clear floats after the columns */
 
 .row:after {
