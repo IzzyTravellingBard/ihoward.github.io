@@ -29,7 +29,7 @@ h3 {
   font-family: 'Eczar', serif;
   color: white;
   margin-bottom: 4px;
-  margin-top: 7px;
+  margin-top: 10px;
 }
 p {
     color: white;
@@ -88,10 +88,6 @@ footer {
 .column {
   float: left;
   width: 50%;
-}
-
-.poetry-intro {
-  margin-bottom: 6px;
 }
 
 #center-column {
