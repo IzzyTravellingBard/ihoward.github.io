@@ -45,7 +45,7 @@ a {
 }
 
 footer {
-  padding: 10px;
+  margin: 10px;
 }
 /* Main Styles --------------------- */
 
@@ -78,7 +78,6 @@ footer {
 .copyright {
   font-weight: bold;
   color: white;
-  margin: 10px;
 }
 
 .pages-header {
