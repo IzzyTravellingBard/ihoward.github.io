@@ -28,7 +28,7 @@ h2 {
 h3 {
   font-family: 'Eczar', serif;
   color: white;
-  margin-top: 10px;
+  margin: 20px;
 }
 p {
     color: white;
@@ -88,10 +88,6 @@ footer {
 .column {
   float: left;
   width: 50%;
-}
-
-.center-column {
-  float: center;
 }
 
 /* Clear floats after the columns */
