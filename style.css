@@ -96,6 +96,11 @@ footer {
   width: 50%;
 }
 
+.middle-column {
+  float: center;
+  width: 100%;
+}
+
 
 /* Clear floats after the columns */
 
