@@ -56,7 +56,7 @@ footer {
 /* Main Styles --------------------- */
 
 .main-header {
-   background: black url(/images/ith014.jpg) no-repeat center;
+   background: url(/images/ith014.jpg) no-repeat center;
    background-size: auto;
    overflow: scroll;
    padding-top: 100px;
