@@ -53,6 +53,11 @@ a {
 footer {
   padding: 10px;
 }
+
+soundcloud-widget, a {
+  display: inline-block;
+  float: center;
+}
 /* Main Styles --------------------- */
 
 .main-header {
@@ -110,10 +115,6 @@ footer {
   clear: both;
 }
 
-.soundcloud-widget {
-  display: inline-block;
-  float: center;
-}
 
 /* Pseudo-Class */ 
 
