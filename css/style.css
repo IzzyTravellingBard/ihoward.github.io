@@ -110,6 +110,11 @@ footer {
   clear: both;
 }
 
+.soundcloud-widget {
+  display: inline-block;
+  float: center;
+}
+
 /* Pseudo-Class */ 
 
 a:link {
