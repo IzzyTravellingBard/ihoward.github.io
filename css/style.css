@@ -54,9 +54,6 @@ footer {
   padding: 10px;
 }
 
-.soundcloud {
-  text-align: center;
-  width: 100%;
 }
 /* Main Styles --------------------- */
 
@@ -106,6 +103,10 @@ footer {
   width: 100%;
 }
 
+.soundcloud {
+  text-align: center;
+  width: 100%;
+}
 
 /* Clear floats after the columns */
 
