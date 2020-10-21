@@ -116,6 +116,11 @@ footer {
   clear: both;
 }
 
+.poolbeg {
+   max-width: 100%;
+   height: auto;
+}
+
 
 /* Pseudo-Class */ 
 
