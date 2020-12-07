@@ -116,11 +116,18 @@ footer {
   clear: both;
 }
 
-.large-image {
-   max-width: 50%;
-   height: 50%;
+.large-portrait {
+   height: 80px;
+   width: 30px;
    float: left;
    object-fit: contain;
+}
+
+.large-landscape {
+    height: 30px;
+    width: 80px;
+    float: left;
+    object-fit: contain;
 }
 
 
