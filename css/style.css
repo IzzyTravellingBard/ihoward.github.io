@@ -116,7 +116,7 @@ footer {
   clear: both;
 }
 
-.large-portrait {
+.large-image {
   max-width: 100%;
   height: auto;
    padding: 10px;
@@ -124,13 +124,6 @@ footer {
    object-fit: contain;
 }
 
-.large-landscape {
-  max-width: 100%;
-  height: auto;
-    padding: 10px;
-    float: left;
-    object-fit: contain;
-}
 
 
 /* Pseudo-Class */ 
