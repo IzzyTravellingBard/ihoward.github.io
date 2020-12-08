@@ -117,16 +117,16 @@ footer {
 }
 
 .large-portrait {
-   height: 80px;
-   width: 30px;
+  max-width: 100%;
+  height: auto;
    padding: 10px;
    float: left;
    object-fit: contain;
 }
 
 .large-landscape {
-    height: 30px;
-    width: 80px;
+  max-width: 100%;
+  height: auto;
     padding: 10px;
     float: left;
     object-fit: contain;
