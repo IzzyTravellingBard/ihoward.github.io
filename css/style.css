@@ -116,15 +116,11 @@ footer {
   clear: both;
 }
 
-.large-image div {
-  display: block;
-   float: center;
-}
-
-.large-image div img {
+.large-image img {
   width: 80%;
   height: auto;
   padding: 20px;
+  float: center;
 }
 
 
