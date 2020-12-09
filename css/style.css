@@ -80,6 +80,7 @@ footer {
         padding: 7px;
         text-align: center;
         font-weight: bold;
+        overflow: hidden;
   
 }
 
