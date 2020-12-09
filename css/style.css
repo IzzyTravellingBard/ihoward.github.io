@@ -116,7 +116,7 @@ footer {
   clear: both;
 }
 
-.large-image {
+.large-image div {
   display: block;
   max-width: 100px;
   height: auto;
