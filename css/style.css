@@ -118,7 +118,7 @@ footer {
 
 .large-image div {
   display: block;
-  width: 50px;
+  width: 100%;
   height: auto;
    padding: 20px;
    float: left;
