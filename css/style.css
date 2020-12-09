@@ -118,10 +118,13 @@ footer {
 
 .large-image div {
   display: block;
+   float: center;
+}
+
+.large-image div img {
   width: 80%;
   height: auto;
-   padding: 20px;
-   float: center;
+  padding: 20px;
 }
 
 
